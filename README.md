@@ -13,6 +13,7 @@ I am dedicated to understand customer problems and solve them with modern techno
 - 📫 How to reach me: zahorecz.tibor@gmail.com
 
 
-![Tibor Zahorecz's github stats](https://github-readme-stats.vercel.app/api?username=ZahoreczTibor&show_icons=true)
+![Tibor Zahorecz's github stats](https://github-readme-stats.vercel.app/api?username=ZahoreczTibor&show_icons=true)  
+![Tibor Zahorecz's github stats](https://github-readme-stats.vercel.app/api?username=ZahoreczTibor&show_icons=true&theme=radical)
 
 
