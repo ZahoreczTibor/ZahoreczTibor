@@ -12,7 +12,7 @@ I am dedicated to understand customer problems and solve them with modern techno
 - 🌱 I’m currently learning Data Product management and Growth product management
 - 📫 How to reach me: zahorecz.tibor@gmail.com
 
-[![Tibor Zahorecz's github stats](https://github-readme-stats.vercel.app/api?username=ZahoreczTibor)](https://github.com/ZahoreczTibor/github-readme-stats)
+
 ![Tibor Zahorecz's github stats](https://github-readme-stats.vercel.app/api?username=ZahoreczTibor&show_icons=true)
 
 
