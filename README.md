@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://github.com/ZahoreczTibor/ZahoreczTibor/blob/main/product%20management.jpeg "Header")]
+![Header](https://github.com/ZahoreczTibor/ZahoreczTibor/blob/main/product%20management.jpeg "Header")
 
 <!--
 **ZahoreczTibor/ZahoreczTibor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
