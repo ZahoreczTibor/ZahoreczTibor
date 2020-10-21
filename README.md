@@ -14,5 +14,6 @@ I am dedicated to understand customer problems and solve them with modern techno
 
 
 ![Tibor Zahorecz's github stats](https://github-readme-stats.vercel.app/api?username=ZahoreczTibor&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahoreczTibor)](https://github.com/ZahoreczTibor/github-readme-stats)
 
 
