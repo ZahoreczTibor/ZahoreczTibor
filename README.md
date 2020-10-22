@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tibor Zahorecz</h1>
+![Header](https://github.com/ZahoreczTibor/ZahoreczTibor/blob/main/product%20management.jpeg "Header")  
 <h3 align="center">I work as a product manager with some programming skills. I'm based in Budapest, Hungary. I am dedicated to understand customer problems and solve them with modern technology like AI and Machine Learning.</h3>
-![Header](https://github.com/ZahoreczTibor/ZahoreczTibor/blob/main/product%20management.jpeg "Header")
 
 - 🔭 I’m currently working on [recognition SaaS on AWS](https://adaptiverecognition.com/anpr-cloud)
 
