@@ -1,4 +1,4 @@
-![Header](https://github.com/ZahoreczTibor/ZahoreczTibor/blob/main/product%20management.jpeg "Header")  
+![Header]https://github.com/ZahoreczTibor/ZahoreczTibor/blob/main/PM.gif "Header")  
 
 <h1 align="center">Hi 👋, I'm Tibor Zahorecz</h1>
 <h3 align="center">I work as a product manager with some programming skills. I'm based in Budapest, Hungary. I am dedicated to understand customer problems and solve them with modern technology like AI and Machine Learning.</h3>
