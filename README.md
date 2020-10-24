@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tibor Zahorecz</h1>
 <h3 align="center">I work as a product manager with some programming skills. I'm based in Budapest, Hungary. I am dedicated to understand customer problems and solve them with modern technology like AI and Machine Learning.</h3>
+I have a passion for learning and sharing my knowledge on product management. You can see some of them on https://github.com/ZahoreczTibor/product_management.
 
 - 🔭 I’m currently working on [recognition SaaS on AWS](https://adaptiverecognition.com/anpr-cloud)
 
