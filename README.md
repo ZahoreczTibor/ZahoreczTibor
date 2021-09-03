@@ -12,7 +12,7 @@ I have a passion for learning and sharing my knowledge on product management. Yo
 
 - 📫 How to reach me **zahorecz.tibor@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tzahorecz/](https://www.linkedin.com/in/tzahorecz/) and my knowledge management place [https://zahorecz-tibor.gitbook.io/product-management/] 
+- 📄 Know about my experiences [https://www.linkedin.com/in/tzahorecz/](https://www.linkedin.com/in/tzahorecz/) and [my knowledge management page] (https://zahorecz-tibor.gitbook.io/product-management/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
