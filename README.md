@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Tibor Zahorecz</h1>
 <h3 align="center">I work as a product manager with some programming skills. Based in Budapest, Hungary and dedicated to understanding customer problems and solving them with modern technology like AI and Machine Learning.</h3>
-I have a passion for learning and sharing my knowledge of product management. You can see some of them on https://github.com/ZahoreczTibor/product_management.
 
 - 🔭 I’m currently working on Multi-Agent framework applications
 
