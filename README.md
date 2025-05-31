@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tibor Zahorecz</h1>
 <h3 align="center">I work as a product manager with some programming skills. Based in Budapest, Hungary and dedicated to understanding customer problems and solving them with modern technology like AI and Machine Learning.</h3>
 
-- 🔭 I’m currently working on Multi-Agent framework applications
+- 🔭 I’m currently working on Multi-Agent framework applications like DiscoveryForge
 
 - 🌱 I’m currently learning **AI Strategy**
 
