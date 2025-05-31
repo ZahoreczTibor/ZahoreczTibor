@@ -24,7 +24,7 @@ DiscoveryForge is a key project where I'm exploring Multi-Agent framework applic
 ### Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/tzahorecz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tzahorecz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
@@ -44,4 +44,3 @@ DiscoveryForge is a key project where I'm exploring Multi-Agent framework applic
 ### GitHub Statistics
 
 ![Tibor Zahorecz's github stats](https://github-readme-stats.vercel.app/api?username=ZahoreczTibor&show_icons=true&theme=dark)
-
