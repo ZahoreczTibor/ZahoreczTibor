@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Tibor Zahorecz</h1>
 <h3 align="center">I work as a product manager with some programming skills. Based in Budapest, Hungary and dedicated to understanding customer problems and solving them with modern technology like AI and Machine Learning.</h3>
 
@@ -25,5 +23,22 @@
 
 ![Tibor Zahorecz's github stats](https://github-readme-stats.vercel.app/api?username=ZahoreczTibor&show_icons=true&theme=dark)
 
+🚀 My Current Flagship Project: DiscoveryForge
+I'm currently focused on developing DiscoveryForge, a project exploring Multi-Agent framework applications.
+
+💡 About Me & What I Do
+🔭 I leverage my product management expertise and programming skills to build impactful products.
+
+🧠 My core passion lies in applying AI and Machine Learning to solve real-world challenges.
+
+🌱 I'm continuously expanding my knowledge, currently diving deeper into AI Strategy.
+
+👨‍💻 You can explore more of my work and projects on my Product Management GitHub Repository.
+
+📄 For a deeper dive into my professional background and knowledge base, check out my Knowledge Management Page.
+
+🛠️ My Tech Stack & Tools
+📊 My GitHub Stats
+📫 Let's Connect!
 
 
