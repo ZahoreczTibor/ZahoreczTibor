@@ -49,7 +49,3 @@ DiscoveryForge is a key project where I'm exploring Multi-Agent framework applic
 </p>
 
 ---
-
-### GitHub Statistics
-
-![Tibor Zahorecz's github stats](https://github-readme-stats.vercel.app/api?username=ZahoreczTibor&show_icons=true&theme=dark)
