@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tibor Zahorecz</h1>
-<h3 align="center">A Product Manager passionate about solving customer problems with cutting-edge technology, particularly AI and Machine Learning. Based in Budapest, Hungary, I bring programming skills to bridge the gap between product vision and technical execution.</h3>
+<h3 align="center">A Product Leader passionate about solving customer problems with cutting-edge technology, particularly AI and Machine Learning. Based in Budapest, Hungary, I bring programming skills to bridge the gap between product vision and technical execution.</h3>
 
 ---
 
 ### About Me
 
+- 🚀 With 15+ years in tech, I've been on a data-driven journey, crafting AI, ML product solutions and building data strategies.
 - 🔭 I’m currently focused on **Multi-Agent framework applications**, including my project, **DiscoveryForge**.
 - 🌱 I’m actively learning about **AI Strategy** to drive innovative product development.
 - 👨‍💻 Explore my other projects and contributions at [Product Management GitHub Repository](https://github.com/ZahoreczTibor/product_management).
