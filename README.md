@@ -6,7 +6,7 @@
 ### About Me
 
 - 🚀 With 15+ years in tech, I've been on a data-driven journey, crafting AI, ML product solutions and building data strategies.
-- 🔭 I’m currently focused on **Multi-Agent framework applications**, including my project, **DiscoveryForge**.
+- 🔭 I’m currently focused on **Multi-Agent framework applications**, including my project, **DiscoveryForge** and ALIGN.
 - 🌱 I’m actively learning about **AI Strategy** to drive innovative product development.
 - 👨‍💻 Explore my other projects and contributions at [Product Management GitHub Repository](https://github.com/ZahoreczTibor/product_management).
 - 📫 Feel free to reach out via email: **zahorecz.tibor@gmail.com**
@@ -23,11 +23,10 @@
 
 ---
 
-### Featured Project: DiscoveryForge
-
-DiscoveryForge is a key project where I'm exploring Multi-Agent framework applications.
+### Featured Project: DiscoveryForge, and ALIGN
 
 - 💡 **Learn more about DiscoveryForge:** [DiscoveryForge Presentation Deck](https://docs.google.com/presentation/d/1Ur51yUr15w0WEXUMNSSNBJSlDC4Dj1tVk-NwuubVGqY/edit?usp=sharing)
+- 💡 **Learn more about ALIGN:** [kaggle](https://kaggle.com/competitions/gemini-3/writeups/Align)
 
 ---
 
